@@ -1,0 +1,13 @@
+.bg-custom{
+	background-image: url("https://images.hdqwalls.com/wallpapers/bthumb/cubes-3d-abstract-5k-wu.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.card-custom {
+    background: rgba(255, 255, 255, 0.95);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+}
